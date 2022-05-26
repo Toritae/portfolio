@@ -1,0 +1,63 @@
+{
+    "basic_info": {
+      "name": "Jiwon Kim",
+      "titles": [ "Junior Back-end Developer", "Junior Data Scientist" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Toritae",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile1.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "95"
+        },
+        {
+          "name": "Flask",
+          "class": "devicon-flask-original",
+          "level": "95"
+        },
+        {
+          "name": "Pytorch",
+          "class": "devicon-pytorch-original",
+          "level": "80"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "90"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-original",
+          "level": "90"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "Postgresql",
+          "class": "devicon-postgresql-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
